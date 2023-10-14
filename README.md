@@ -1,4 +1,4 @@
-## EECS_4412_A2
+## EECS_4412_A2 DECISION TREES:
   - A simple Decision tree program
   - Part 1: creating a function to determine if a node is an Internal or a Leaf node
   - Part 2: Creating a function that calculates the entropy (Measure of Impurity in the data) of a node to be used for splitting a node based on the Information Gain criterion
